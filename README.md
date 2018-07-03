@@ -2,7 +2,7 @@
 
 # Todolist
 
--[x] write customer class
--[] write barber class
--[] write cashier class
--[] complete main method for final test
+- [x] write customer class
+- [ ] write barber class
+- [ ] write cashier class
+- [ ] complete main method for final test
