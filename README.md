@@ -3,6 +3,6 @@
 # Todolist
 
 - [x] write customer class
-- [ ] write barber class
-- [ ] write cashier class
-- [ ] complete main method for final test
+- [x] write barber class
+- [x] write cashier class
+- [x] complete main method for final test
