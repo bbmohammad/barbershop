@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20de4a5d-4e89-4fa1-ade5-8147e68490e4" name="Default" comment="" />
+    <list default="true" id="20de4a5d-4e89-4fa1-ade5-8147e68490e4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/BarberShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/BarberShop.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +17,8 @@
       <file leaf-file-name="BarberShop.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BarberShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="128" column="33" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="33" />
+            <state relative-caret-position="26">
+              <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
               <folding>
                 <element signature="e#3061#3062#0" expanded="true" />
                 <element signature="e#3117#3118#0" expanded="true" />
@@ -26,6 +28,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +53,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="width" value="1346" />
     <option name="height" value="692" />
@@ -137,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530611528783</updated>
-      <workItem from="1530611532943" duration="7342000" />
+      <workItem from="1530611532943" duration="8193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7342000" />
+    <option name="totallyTimeSpent" value="8193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
@@ -158,7 +165,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49926794" visible="true" weight="0.33117932" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49926794" visible="true" weight="0.33117932" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
@@ -198,7 +205,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BarberShop.java</url>
-          <line>108</line>
+          <line>109</line>
           <properties class="BarberShop.Customer" method="barber">
             <option name="EMULATED" value="true" />
           </properties>
@@ -206,7 +213,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BarberShop.java</url>
-          <line>134</line>
+          <line>135</line>
           <properties class="BarberShop.Customer" method="cut_hair">
             <option name="EMULATED" value="true" />
           </properties>
@@ -243,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BarberShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="128" column="33" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="33" />
+        <state relative-caret-position="26">
+          <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
           <folding>
             <element signature="e#3061#3062#0" expanded="true" />
             <element signature="e#3117#3118#0" expanded="true" />
