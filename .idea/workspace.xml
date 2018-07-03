@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20de4a5d-4e89-4fa1-ade5-8147e68490e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BarberShop$Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BarberShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/barbershop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/.BarberShop.java.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/BarberShop$Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/BarberShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/barbershop/barbershop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BarberShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/BarberShop.java" afterDir="false" />
-    </list>
+    <list default="true" id="20de4a5d-4e89-4fa1-ade5-8147e68490e4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,7 +46,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="width" value="1346" />
     <option name="height" value="692" />
@@ -155,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530611528783</updated>
-      <workItem from="1530611532943" duration="6942000" />
+      <workItem from="1530611532943" duration="7342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6942000" />
+    <option name="totallyTimeSpent" value="7342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
