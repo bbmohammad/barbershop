@@ -92,6 +92,7 @@ public class BarberShop {
             receipt.release();
             max_capacity.release();
             System.out.println(String.format("customer %d has left the shop",getCustomerNumber() ));
+//            count--;
         }
 
 

@@ -17,8 +17,8 @@
       <file leaf-file-name="BarberShop.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BarberShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+            <state relative-caret-position="108">
+              <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="33" />
               <folding>
                 <element signature="e#3061#3062#0" expanded="true" />
                 <element signature="e#3117#3118#0" expanded="true" />
@@ -144,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530611528783</updated>
-      <workItem from="1530611532943" duration="8193000" />
+      <workItem from="1530611532943" duration="9160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8193000" />
+    <option name="totallyTimeSpent" value="9160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1374" height="736" extended-state="6" />
@@ -205,7 +205,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BarberShop.java</url>
-          <line>109</line>
+          <line>110</line>
           <properties class="BarberShop.Customer" method="barber">
             <option name="EMULATED" value="true" />
           </properties>
@@ -213,7 +213,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BarberShop.java</url>
-          <line>135</line>
+          <line>136</line>
           <properties class="BarberShop.Customer" method="cut_hair">
             <option name="EMULATED" value="true" />
           </properties>
@@ -250,8 +250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BarberShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+        <state relative-caret-position="108">
+          <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="33" />
           <folding>
             <element signature="e#3061#3062#0" expanded="true" />
             <element signature="e#3117#3118#0" expanded="true" />
